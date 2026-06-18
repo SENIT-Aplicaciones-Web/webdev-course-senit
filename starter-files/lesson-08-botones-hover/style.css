@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f7f0ff;
+}
+
+.container {
+  margin-top: 60px;
+}
+
+.button {
+  display: inline-block;
+
+  /* TODO: agrega un color de fondo */
+
+  /* TODO: cambia el color del texto a blanco */
+
+  /* TODO: agrega espacio interno con padding */
+
+  /* TODO: redondea las esquinas */
+
+  /* TODO: quita el subrayado del enlace */
+
+  /* TODO: agrega una transición */
+}
+
+.button:hover {
+  /* TODO: cambia el color de fondo cuando pase el mouse */
+}
