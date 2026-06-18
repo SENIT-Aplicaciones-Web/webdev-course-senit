@@ -9,7 +9,7 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: Solo tu navegador web (Chrome, Firefox, Safari o Edge)  
 **Editor en línea**: [Programiz HTML Online Compiler](https://www.programiz.com/html/online-compiler/) — no requiere instalación  
-**Repositorio de código fuente**: [ENLACE_REPOSITORIO_GITHUB](ENLACE_REPOSITORIO_GITHUB)
+**Repositorio de código fuente**: [Github](https://github.com/SENIT-Aplicaciones-Web/webdev-course-senit/)
 
 ---
 
@@ -200,12 +200,26 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 
 ---
 ## 👥 Elaboración
+
 Universidad Peruana de Ciencias Aplicadas
+
 Carrera de Ingeniería de Software
+
 Período 202610
+
 1ASI0730 Aplicaciones Web
-NRC [Número de NRC]
-**Nombre del equipo**: [Nombre de su equipo]
-**Líder del equipo**: [Nombres y Apellidos del líder]
-**Integrantes del equipo**: [Nombres y Apellidos de cada participante]
-**Fecha de entrega**: [Fecha]
+
+NRC 10203
+
+**Nombre del equipo**: Senit
+
+**Líder del equipo**: Edgar Alexander Mauricio Montes Zamora
+
+**Integrantes del equipo**:
+- Heredia Hoyos, Danitza Ivonne (u201910803)
+- Montes Zamora, Edgar Alexander Mauricio (u20241e126)
+- Garcia Villanueva, Leonardo Rafael (u20231h059)
+- Faustino Hurtado, Anghelo (u20241b331)
+- Lozano Leon, Richard Enrique (u20241d990)
+  
+**Fecha de entrega**: 18/06/26
