@@ -46,7 +46,7 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 ### Lección 3: Estructura HTML básica (6 minutos)
 
 - **Descripción**: Aprende cómo HTML organiza el contenido usando etiquetas, elementos, apertura, cierre y estructura básica de una página.
-- **Enlace**: [Ver la lección](ENLACE_YOUTUBE_NO_LISTADO)
+- **Enlace**: [Ver la lección](https://youtu.be/fEDYzJZ0G1k)
 - **Conclusiones clave**:
   - Una etiqueta puede tener apertura, contenido y cierre
   - `<html>` contiene la página
@@ -61,7 +61,7 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 ### Lección 4: Listas, enlaces e imágenes (6 minutos)
 
 - **Descripción**: Agrega elementos comunes a una página web: listas, enlaces e imágenes.
-- **Enlace**: [Ver la lección](ENLACE_YOUTUBE_NO_LISTADO)
+- **Enlace**: [Ver la lección](https://youtu.be/MfYqeytmvjM)
 - **Conclusiones clave**:
   - `<ul>` crea una lista
   - `<li>` representa cada elemento de una lista
