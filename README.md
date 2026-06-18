@@ -110,7 +110,7 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 ### Lección 7: Centrar y ordenar contenido (6 minutos)
 
 - **Descripción**: Aprende a ordenar una página usando un contenedor central, ancho máximo, centrado horizontal y alineación de texto.
-- **Enlace**: [Ver la lección](ENLACE_YOUTUBE_NO_LISTADO)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=B2oy-c0yxW8)
 - **Conclusiones clave**:
   - Un contenedor ayuda a ordenar el contenido
   - `max-width` limita el ancho máximo
