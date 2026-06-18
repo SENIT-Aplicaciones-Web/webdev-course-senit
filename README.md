@@ -78,7 +78,7 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 ### Lección 5: Introducción a CSS — colores y fuentes (6 minutos)
 
 - **Descripción**: Aprende qué es CSS y cómo usarlo para cambiar colores, fondos y fuentes de una página HTML.
-- **Enlace**: [Ver la lección](ENLACE_YOUTUBE_NO_LISTADO)
+- **Enlace**: [Ver la lección](https://youtu.be/_DvfQfhZu3A)
 - **Conclusiones clave**:
   - CSS cambia la apariencia de una página
   - Una regla CSS tiene selector, propiedad y valor
@@ -94,7 +94,7 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 ### Lección 6: Tarjetas, bordes y espacios (6 minutos)
 
 - **Descripción**: Crea una tarjeta visual usando `div`, `class`, bordes, espacios y esquinas redondeadas.
-- **Enlace**: [Ver la lección](ENLACE_YOUTUBE_NO_LISTADO)
+- **Enlace**: [Ver la lección](https://youtu.be/cIbDRr4By2s)
 - **Conclusiones clave**:
   - `div` funciona como una caja o contenedor
   - `class` permite aplicar estilos a una parte específica
