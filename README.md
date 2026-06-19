@@ -143,7 +143,7 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 ### Lección 9: Página web básica completa (8 minutos)
 
 - **Descripción**: Integra HTML y CSS para crear una página sencilla de perfil, hobby, mascota, personaje, videojuego o deporte.
-- **Enlace**: [Ver la lección](ENLACE_YOUTUBE_NO_LISTADO)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=kevis7BDIOQ)
 - **Conclusiones clave**:
   - Una página completa combina estructura HTML y estilos CSS
   - Es mejor crear primero el contenido y luego aplicar estilos
@@ -157,7 +157,7 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 ### Lección 10: Errores comunes, buenas prácticas y reto final (8 minutos)
 
 - **Descripción**: Revisa errores frecuentes de HTML y CSS, aprende buenas prácticas básicas y personaliza una página final.
-- **Enlace**: [Ver la lección](ENLACE_YOUTUBE_NO_LISTADO)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=5NNkz0cOKFQ)
 - **Conclusiones clave**:
   - Cerrar etiquetas evita errores visuales
   - Los nombres de clase deben coincidir entre HTML y CSS
