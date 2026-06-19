@@ -15,10 +15,10 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 
 ## Secuencia de la Lección
 
-### Lección 1: ¿Qué es una página web? (6 minutos)
+### Lección 1: ¿Qué es una página web? (8 minutos)
 
 - **Descripción**: Aprende qué es una página web, qué hace un navegador y cómo se relacionan HTML y CSS. Se explica que HTML representa el contenido y CSS representa la apariencia visual.
-- **Enlace**: [Ver la lección](ENLACE_YOUTUBE_NO_LISTADO)
+- **Enlace**: [Ver la lección](https://youtu.be/hIcDBXHFWoA)
 - **Conclusiones clave**:
   - Una página web se puede ver desde un navegador
   - HTML define el contenido: títulos, textos, imágenes y enlaces
@@ -29,10 +29,10 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 
 ---
 
-### Lección 2: Primera mini página en Programiz (6 minutos)
+### Lección 2: Primera mini página en Programiz (8 minutos)
 
 - **Descripción**: Conoce el editor en línea Programiz y crea tu primera mini página usando un título y un párrafo.
-- **Enlace**: [Ver la lección](ENLACE_YOUTUBE_NO_LISTADO)
+- **Enlace**: [Ver la lección](https://youtu.be/aCktDY0236g)
 - **Conclusiones clave**:
   - Programiz permite escribir HTML y ver el resultado en el navegador
   - `<h1>` se usa para un título principal
