@@ -107,7 +107,7 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 
 ---
 
-### Lección 7: Centrar y ordenar contenido (6 minutos)
+### Lección 7: Centrar y ordenar contenido (13 minutos)
 
 - **Descripción**: Aprende a ordenar una página usando un contenedor central, ancho máximo, centrado horizontal y alineación de texto.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=B2oy-c0yxW8)
@@ -122,10 +122,10 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 
 ---
 
-### Lección 8: Botones y efecto hover (6 minutos)
+### Lección 8: Botones y efecto hover (13 minutos)
 
 - **Descripción**: Convierte un enlace en un botón visual usando CSS y agrega un efecto cuando el mouse pasa encima.
-- **Enlace**: [Ver la lección](ENLACE_YOUTUBE_NO_LISTADO)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=kYIDla-f4qc)
 - **Conclusiones clave**:
   - `<a>` crea un enlace
   - `href` indica el destino del enlace
